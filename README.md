@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Afshin
+- 👋 Hi, I’m Afshin Izadnia
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning python
 - 📫 How to reach me : izadnia@yahoo.com
