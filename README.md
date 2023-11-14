@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Afshin Izadnia
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning React
+- 🌱 I’m currently studying MA computer
 - 📫 How to reach me : izadnia@yahoo.com
 
 <!---
