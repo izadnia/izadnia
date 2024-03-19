@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying MA computer
 - 📫 How to reach me : izadnia@yahoo.com
 <div alig="left">
-  <img src="https://github-readme-stats.vercel.com/api/top-langs?username=izadnia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&border=2&theme=dracula" height='150' alt="languages graph">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=izadnia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&border=2&theme=dracula" height='150' alt="languages graph">
 </div>
 <!---
 izadnia/izadnia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
