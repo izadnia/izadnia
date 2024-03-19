@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content:space-between">
+<div style="display: flex">
   <div>
   - 👋 Hi, I’m Afshin Izadnia
 - 👀 I’m interested in programing
