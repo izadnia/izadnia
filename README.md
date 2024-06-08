@@ -1,6 +1,3 @@
-- 👋 Hi, I’m Afshin Izadnia
-- 👀 I’m interested in programing
-- 🌱 I’m currently studying MA computer
 
 <div alig="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=izadnia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=true&theme=transparent" height='150' alt="languages graph">
